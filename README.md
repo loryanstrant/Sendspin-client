@@ -1,3 +1,9 @@
+# Evolution from this solution
+I have archived this repo as a fellow community contributor has leveraged and evolved from the foundation of my solution considerably, and created a far more versatile and powerful feature set. 
+Check it out here: https://github.com/trudenboy/sendspin-bt-bridge
+
+I will be switching to it myself. :-) 
+
 # Sendspin Docker Client
 
 A Docker-based Sendspin client with Bluetooth speaker support and web-based configuration interface. Perfect for running on headless systems like Raspberry Pi or Home Assistant installations.
